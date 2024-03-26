@@ -11,7 +11,7 @@ const IntroCard = () => {
 			style={{
 					width: 240,
 			}}
-			cover={<img alt="pic" src="http://wmnlab.ee.ntu.edu.tw/lab/image/people/Cheng-Rui%20Jia.JPG" />}
+			cover={<img alt="pic" src="./Cheng-Rui%20Jia.JPG" />}
 		>
 			<Meta title="賈承叡" description="國立台灣大學 電信所資網組" />
 		</Card>
